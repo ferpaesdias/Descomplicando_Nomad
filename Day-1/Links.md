@@ -14,3 +14,8 @@ https://www.nomadproject.io/docs
 
 ## Página de Requiments
 https://developer.hashicorp.com/nomad/docs/install/production/requirements
+
+</br>
+
+## Nomad reference architecture
+https://developer.hashicorp.com/nomad/tutorials/enterprise/production-reference-architecture-vm-with-consul
