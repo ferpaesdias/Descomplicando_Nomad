@@ -19,3 +19,8 @@ https://developer.hashicorp.com/nomad/docs/install/production/requirements
 
 ## Nomad reference architecture
 https://developer.hashicorp.com/nomad/tutorials/enterprise/production-reference-architecture-vm-with-consul
+
+</br>
+
+## Instalando o Nomad
+https://developer.hashicorp.com/nomad/docs/install
